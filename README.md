@@ -2,8 +2,6 @@
 
 This is a continuous runnig sudoku game that will allow you to accumulate points indefinitely by solving sudokus.
 
-[Try it out!](http://aws-website-sudoku-marathon-3akgc.s3-website-us-east-1.amazonaws.com/)
-
 # Why a sudoku marathon game?
 
 Originally I was just going to covert a sudoku solver/generator in Reason, but after watching the show Man vs Snake on netflix I decided to create a sudoku marathon game.
